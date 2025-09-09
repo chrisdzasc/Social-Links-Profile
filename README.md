@@ -30,7 +30,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Live Site URL: [Social links profile](https://socialprofile-chrisdzasc.netlify.app/)
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile---mobile-first-j7DT1De0FB)
 
 ## My process
 
